@@ -168,7 +168,3 @@ Limpia las SQLite de:
 - `docs/decisiones_de_diseno.md`
 - `docs/bitacora_diseno.txt`
 - `docs/DocumentosLatex/decisiones_diseno.pdf`
-
-## Estado del README
-
-Este README queda publicado como Markdown real en `README.md`, que es la opcion correcta para renderizado consistente en GitHub.
